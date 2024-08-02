@@ -6,13 +6,13 @@
 // @description Redirects Exoracer .page.link links to an Exolink instance.
 // @match       https://exoracer.page.link/*
 // @match       https://exo.page.link/*
-// @supportURL  https://ectoracer.github.io/discord
+// @supportURL  https://ecto.exoracer.link/discord
 // @updateURL   https://r.exoracer.link/r.user.js
 // @downloadURL https://r.exoracer.link/r.user.js
-// @homepageURL https://ectoracer.github.io/exolink
-// @homepage    https://ectoracer.github.io/exolink
-// @website     https://ectoracer.github.io/exolink
-// @source      https://ectoracer.github.io/exolink
+// @homepageURL https://ecto.exoracer.link/exolink
+// @homepage    https://ecto.exoracer.link/exolink
+// @website     https://ecto.exoracer.link/exolink
+// @source      https://ecto.exoracer.link/exolink
 // @grant       GM_listValues
 // @sandbox     DOM
 // @version     1.0.0
