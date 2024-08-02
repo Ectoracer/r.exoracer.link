@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Exolink</title>
+        <style>
+        @import url("https://fontlay.com/css2?family=Oxanium:wght@700&display=swap");
+        :root { color-scheme: light dark; }
+        * {
+            font-family: "Oxanium";
+            color: #d9d9d9;
+            text-align: center;
+            outline: none;
+            margin: 0;
+            padding: 0;
+        }
+        body {
+            margin: 0 auto;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            text-align: center;
+            width: 80%;
+        }
+        a {
+            color: rgb(0, 64, 255);
+            text-decoration: none;
+            position: relative;
+            transition: color 0.25s;
+        }
+        a:after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 0%;
+            border-bottom: 2px solid rgb(0, 128, 255);
+            transition: 0.4s;
+        }
+        a:hover:after {
+            width: 100%;
+            color: rgb(0, 128, 255);
+        }
+        a:hover { color: rgb(0, 128, 255); }
+        </style>
+    </head>
+    <body>
+        <p>This is a landing page for the Exolink redirect page. <a href="https://exoracer.link">Try Exolink</a>, and then <a href="/r.user.js">check out the userscript</a> (use a manager like <a href="https://violentmonkey.github.io">Violentmonkey</a> or <a href="https://apps.apple.com/app/userscripts/id1463298887">Userscripts</a>) if you like it.</a>
+    </body>
+</html>
