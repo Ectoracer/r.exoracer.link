@@ -6,11 +6,6 @@
 // @description Redirects Exoracer .page.link links to an Exolink instance.
 // @match       https://exoracer.page.link/*
 // @match       https://exo.page.link/*
-// @icon        https://r.exoracer.link/icon.png
-// @iconURL     https://r.exoracer.link/icon.png
-// @defaulticon https://r.exoracer.link/icon.png
-// @icon64      https://r.exoracer.link/icon64.png
-// @icon64URL   https://r.exoracer.link/icon64.png
 // @supportURL  https://ectoracer.github.io/discord
 // @updateURL   https://r.exoracer.link/r.user.js
 // @downloadURL https://r.exoracer.link/r.user.js
